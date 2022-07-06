@@ -1,4 +1,5 @@
 # Chopsticks-Game
-대학교 1학년 C언어 강의 학습 중 만든 간단한 프로젝트입니다.
 
-첫 프로그래밍 학습 중 만든 프로젝트로 기초만으로 만들 수 있는 코드입니다.
+It's a simple project made during the first year of university C language lecture.
+
+It is a project created during the first programming learning and can be made with only basic knowledge.
